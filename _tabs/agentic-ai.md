@@ -20,7 +20,7 @@ In agentic AI, an agent is a software system that uses a model, usually an LLM, 
 Model (the "brain")	Reasons, plans, and decides the next step.
 
 
-# What is Agent ai ?
+# What is Agentic AI ?
 
 Agentic AI is AI that can pursue a goal on its own. It plans, takes actions, checks the results, and adjusts until the goal is met. Generative AI mostly responds to a prompt. Agentic AI acts toward an outcome.
 
