@@ -5,8 +5,6 @@ order: 4
 ---
 
 
-# About
-
 Hi, I'm **Mayank Shah**.
 
 I am a technology professional exploring the intersection of **Artificial Intelligence, Agentic Systems, Enterprise Architecture, Cloud Platforms, and Digital Transformation**.
